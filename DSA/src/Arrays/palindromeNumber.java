@@ -3,6 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 public class palindromeNumber {
+	//Palindrome
 	
 	 public static boolean isPalindrome(int x) {
 
