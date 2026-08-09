@@ -39,7 +39,7 @@ public class palindromeNumber {
 		System.out.println("Please Enter the Number ");
 		int n=sc.nextInt();
 	    boolean ans=	isPalindrome(n);
-	    System.out.println(ans);
+	    System.out.println("Palindrome "+ans);
 	}
 
 }
