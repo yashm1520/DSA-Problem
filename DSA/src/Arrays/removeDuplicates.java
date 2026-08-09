@@ -3,7 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 public class removeDuplicates {
-	
+	//removeduplicate
 	public static int removeDuplicates(int[] nums) {
         int n=1;
        

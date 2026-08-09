@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 public class validParenthesis {
-	
+	//validParenthesis
 	 public static boolean isValid(String s) {
 
 	        if(s.length()==1){
