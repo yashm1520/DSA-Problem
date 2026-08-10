@@ -30,6 +30,7 @@ public class firstOccurence {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
+		//hystack
 
 		System.out.println("Enter String Hystack:");
 		String h = sc.nextLine();
