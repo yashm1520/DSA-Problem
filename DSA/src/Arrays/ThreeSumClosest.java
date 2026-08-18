@@ -53,7 +53,7 @@ public class ThreeSumClosest {
 		int target=sc.nextInt();
 	int ans=	threeSumClosest(num,target);
 	
-	System.out.println("Closest Value to Target: "+ans);
+	System.out.println("Closest Value to Target : "+ans);
 	}
 
 }
