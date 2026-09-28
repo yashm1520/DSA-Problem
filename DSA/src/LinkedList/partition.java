@@ -28,6 +28,7 @@ public class partition {
 	            greater=greater.next;
 	        }
 	        head=head.next;
+	        head=head.next;
 
 	      }
 	       less.next=greaterDummy.next;
