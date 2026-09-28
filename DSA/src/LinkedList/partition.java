@@ -1,7 +1,7 @@
 package LinkedList;
 
 public class partition {
-	
+	//
 	 public class ListNode {
 	     int val;
 	     ListNode next;
