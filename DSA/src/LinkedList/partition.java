@@ -33,7 +33,7 @@ public class partition {
 	       less.next=greaterDummy.next;
 	     
 	        
-	        return lessDummy.next
+	        return lessDummy.next;
 	    }
 	}
 }
